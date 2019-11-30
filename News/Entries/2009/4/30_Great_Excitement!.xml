@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="4C8FB557-092C-45E2-B8C5-1A57C91FDDC1">
+  <lastEdited clientType="local-build-20090518" date="2009-05-18 21:35:24 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>News</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We are pleased to announce that our darling Clara is indeed expecting puppies. The due date is May 7th &#x2013; exactly two years to the day that our last litter was born!&#xD;Clara&#x2019;s full name is CH SNOPAW&#x2019;S CLARA CAPRICCIO and Ravel, the proud father-to-be is BIS CH ATISHA&#x2019;S VSOP COURVOISIER.&#xD;For pictures and more information about this breeding, please look under &lt;a href="perma://BLPageReference/76C9D797-A2A3-419B-ABDD-ADECE0ED2607"&gt;Photos&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Great Excitement!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Great_Excitement%21_files/shapeimage_1.png" left="0px" top="0px" width="300px" height="225px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, April 30, 2009</richText>
+  </textBox>
+</content>

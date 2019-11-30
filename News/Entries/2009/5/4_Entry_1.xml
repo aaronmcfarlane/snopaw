@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="4C8FB557-092C-45E2-B8C5-1A57C91FDDC1">
+  <lastEdited clientType="local-build-20090518" date="2009-05-18 21:35:23 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>News</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Murdock and Deb are thrilled to announce the arrival of four beautiful little black and white TT puppies, born May 2 at around 9:30 p.m. There are two boys and two girls. Congratulations go to the proud Mom CH Snopaw&#x2019;s Clara Capriccio and the proud Dad BIS CH Atisha&#x2019;s VSOP Courvoisier. They are both first time parents!! Thanks to Joyce and her cousin who came from Plattsburg to help with the delivery. And thanks to all the well wishers in the TT community. For pictures please go to &lt;a href="perma://BLPageReference/76C9D797-A2A3-419B-ABDD-ADECE0ED2607"&gt;Photos&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Birth Announcement</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="300px" height="225px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, May 4, 2009</richText>
+  </textBox>
+</content>

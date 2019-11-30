@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="4C8FB557-092C-45E2-B8C5-1A57C91FDDC1">
+  <lastEdited clientType="local-build-20090518" date="2009-05-18 21:35:24 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>News</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The United Kennel Club's International Dog Show, held on November 25, 26 and 27, 2005 at Bonaventure, Montreal, Quebec was a memorable weekend for the Snopaw puppies.  On Saturday, Snopaw's Clara Capriccio earned her championship, going Best of Winners under Judge Barbara Alderman.  Her litter brother, Snopaw's Puccini Butterfly also earned points for Winner's Dog.  Under Judge Donna Cole, Snopaw's Gershwin Rhapsody went Winner's Dog and also finished his championship.  A very exciting time!</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Two in One Blow</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Two_in_One_Blow_files/shapeimage_1.png" left="0px" top="0px" width="232px" height="174px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, December 2, 2005</richText>
+  </textBox>
+</content>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>News</title>
+    <link>http://www.snopaw.com/snopaw/News</link>
+    <description>Here&#x2019;s where you&#x2019;ll find news about Snopaw Tibetan Terriers.  Watch this space for information regarding litters.</description>
+    <item>
+      <title>Birth Announcement</title>
+      <link>http://www.snopaw.com/snopaw/News/Entries/2009/5/4_Entry_1.html</link>
+      <guid isPermaLink="false">3759317b-50bf-4259-9695-9af078a18628</guid>
+      <pubDate>Mon, 4 May 2009 15:33:47 -0400</pubDate>
+      <description>Murdock and Deb are thrilled to announce the arrival of four beautiful little black and white TT puppies, born May 2 at around 9:30 p.m. There are two boys and two girls. Congratulations go to the proud Mom CH Snopaw&#x2019;s Clara Capriccio and the proud Dad BIS CH Atisha&#x2019;s VSOP Courvoisier. They are both first time parents!! Thanks to Joyce and her cousin who came from Plattsburg to help with the delivery. And thanks to all the well wishers in the TT community. For pictures please go to &lt;a href="../Photos/Photos.html"&gt;Photos&lt;/a&gt;.</description>
+      <iweb:image href="Media/object155.jpg"></iweb:image>
+      <iweb:comment link="http://www.snopaw.com/snopaw/News/Entries/2009/5/4_Entry_1.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Great Excitement!</title>
+      <link>http://www.snopaw.com/snopaw/News/Entries/2009/4/30_Great_Excitement%21.html</link>
+      <guid isPermaLink="false">64e2f75e-c266-4ff6-8487-221781afa9cf</guid>
+      <pubDate>Thu, 30 Apr 2009 21:32:19 -0400</pubDate>
+      <description>We are pleased to announce that our darling Clara is indeed expecting puppies. The due date is May 7th &#x2013; exactly two years to the day that our last litter was born!&lt;br/&gt;Clara&#x2019;s full name is CH SNOPAW&#x2019;S CLARA CAPRICCIO and Ravel, the proud father-to-be is BIS CH ATISHA&#x2019;S VSOP COURVOISIER.&lt;br/&gt;For pictures and more information about this breeding, please look under &lt;a href="../Photos/Photos.html"&gt;Photos&lt;/a&gt;.</description>
+      <iweb:image href="Media/object021.jpg"></iweb:image>
+      <iweb:comment link="http://www.snopaw.com/snopaw/News/Entries/2009/4/30_Great_Excitement%21.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Two in One Blow</title>
+      <link>http://www.snopaw.com/snopaw/News/Entries/2005/12/2_Two_in_One_Blow.html</link>
+      <guid isPermaLink="false">0a412369-7724-46c8-b80d-0ac0810b7293</guid>
+      <pubDate>Fri, 2 Dec 2005 21:24:56 -0500</pubDate>
+      <description>The United Kennel Club's International Dog Show, held on November 25, 26 and 27, 2005 at Bonaventure, Montreal, Quebec was a memorable weekend for the Snopaw puppies.  On Saturday, Snopaw's Clara Capriccio earned her championship, going Best of Winners under Judge Barbara Alderman.  Her litter brother, Snopaw's Puccini Butterfly also earned points for Winner's Dog.  Under Judge Donna Cole, Snopaw's Gershwin Rhapsody went Winner's Dog and also finished his championship.  A very exciting time!</description>
+      <iweb:image href="Media/object001.jpg"></iweb:image>
+      <iweb:comment link="http://www.snopaw.com/snopaw/News/Entries/2005/12/2_Two_in_One_Blow.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.snopaw.com/snopaw/News</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

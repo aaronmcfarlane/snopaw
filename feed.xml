@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:896D7668-AC1D-456B-BD76-AE7DA760C595</id>
+ <title>Page list Atom feed</title>
+ <updated>2009-07-24T10:17:59-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:BAAEE4FA-403C-489B-8719-5FFC2889CCD2</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">BAAEE4FA-403C-489B-8719-5FFC2889CCD2</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2009-07-24T10:17:59.001-04:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:67D2C6B1-F717-4B78-B27D-14786175B0ED</id>
+  <title>News</title>
+  <title xmlns="urn:iweb:">News</title>
+  <in-navbar xmlns="urn:iweb:">67D2C6B1-F717-4B78-B27D-14786175B0ED</in-navbar>
+  <link rel="alternate" href="News/News.html"/>
+  <updated>2009-07-24T10:17:59.002-04:00</updated>
+  <content>News</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EEF272A4-A378-4089-9B36-FDC379DF9F04</id>
+  <title>About Us</title>
+  <title xmlns="urn:iweb:">About Us</title>
+  <in-navbar xmlns="urn:iweb:">EEF272A4-A378-4089-9B36-FDC379DF9F04</in-navbar>
+  <link rel="alternate" href="About_Us.html"/>
+  <updated>2009-07-24T10:17:59.003-04:00</updated>
+  <content>About Us</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7864E7F5-3172-4F66-A6CA-2E2B1B6A2DD1</id>
+  <title>Our Dogs</title>
+  <title xmlns="urn:iweb:">Our Dogs</title>
+  <in-navbar xmlns="urn:iweb:">7864E7F5-3172-4F66-A6CA-2E2B1B6A2DD1</in-navbar>
+  <link rel="alternate" href="Our_Dogs.html"/>
+  <updated>2009-07-24T10:17:59.004-04:00</updated>
+  <content>Our Dogs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:26A3EFEE-C332-4753-886A-EB9A76EEDFE2</id>
+  <title>Litters</title>
+  <title xmlns="urn:iweb:">Litters</title>
+  <in-navbar xmlns="urn:iweb:">26A3EFEE-C332-4753-886A-EB9A76EEDFE2</in-navbar>
+  <link rel="alternate" href="Litters.html"/>
+  <updated>2009-07-24T10:17:59.005-04:00</updated>
+  <content>Litters</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:76C9D797-A2A3-419B-ABDD-ADECE0ED2607</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">76C9D797-A2A3-419B-ABDD-ADECE0ED2607</in-navbar>
+  <link rel="alternate" href="Photos/Photos.html"/>
+  <updated>2009-07-24T10:17:59.006-04:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FE6C03E2-71C3-438A-861D-039F5EA3111F</id>
+  <title>Contact Us</title>
+  <title xmlns="urn:iweb:">Contact Us</title>
+  <in-navbar xmlns="urn:iweb:">FE6C03E2-71C3-438A-861D-039F5EA3111F</in-navbar>
+  <link rel="alternate" href="Contact_Us.html"/>
+  <updated>2009-07-24T10:17:59.007-04:00</updated>
+  <content>Contact Us</content>
+ </entry>
+</feed>

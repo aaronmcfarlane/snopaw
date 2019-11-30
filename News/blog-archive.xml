@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>News</title>
+    <link>http://www.snopaw.com/snopaw/News</link>
+    <description>Here&#x2019;s where you&#x2019;ll find news about Snopaw Tibetan Terriers.  Watch this space for information regarding litters.</description>
+    <item>
+      <title>Birth Announcement</title>
+      <link>http://www.snopaw.com/snopaw/News/Entries/2009/5/4_Entry_1.html</link>
+      <guid isPermaLink="false">3759317b-50bf-4259-9695-9af078a18628</guid>
+      <pubDate>Mon, 4 May 2009 15:33:47 -0400</pubDate>
+      <iweb:comment link="http://www.snopaw.com/snopaw/News/Entries/2009/5/4_Entry_1.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Great Excitement!</title>
+      <link>http://www.snopaw.com/snopaw/News/Entries/2009/4/30_Great_Excitement%21.html</link>
+      <guid isPermaLink="false">64e2f75e-c266-4ff6-8487-221781afa9cf</guid>
+      <pubDate>Thu, 30 Apr 2009 21:32:19 -0400</pubDate>
+      <iweb:comment link="http://www.snopaw.com/snopaw/News/Entries/2009/4/30_Great_Excitement%21.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Two in One Blow</title>
+      <link>http://www.snopaw.com/snopaw/News/Entries/2005/12/2_Two_in_One_Blow.html</link>
+      <guid isPermaLink="false">0a412369-7724-46c8-b80d-0ac0810b7293</guid>
+      <pubDate>Fri, 2 Dec 2005 21:24:56 -0500</pubDate>
+      <iweb:comment link="http://www.snopaw.com/snopaw/News/Entries/2005/12/2_Two_in_One_Blow.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.snopaw.com/snopaw/News</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>
